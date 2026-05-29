@@ -1,5 +1,7 @@
 # Phase-map synthesis from magnitude-only MR images using conditional score-based diffusion models with application in training of accelerated MRI reconstruction models
 
+Paper Link: https://arxiv.org/abs/2605.01185
+
 PyTorch implementation of **phase-map synthesis with SBDM**.
 
 ![concept](./fig_method.png)
